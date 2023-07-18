@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Café Primor</title>
+</head>
+<body>
+    <div class="navbar">
+        <img class="Primor"src="assets/img/primor.png"/>
+        <li><a href="#QuemSomos">Quem somos</a></li>
+        <li><a href="#ÁreaProfissional">Área Profissional</a></li>
+        <li><a href="assets/img/catalogo.pdf" target="_blank" download="catalogo.pdf" type="application/pdf">Catálogo</a></li>
+    </div>
+    <div class="containerTop" id="Home">
+        <img class="image1" src="assets/img/Img1.jpg">
+        <div class="containerTopContent">
+            <p>Conheça o nosso <br>catálogo online!</p>
+            <a href="assets/img/catalogo.pdf" target="_blank"><button class="containerTopButton">clique <br>aqui!</button></a>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+    <div class="containerMidBottom" id="QuemSomos">
+        <div class="containerMidBottomContent">
+            <p>Nossa equipe de especialistas em torrefação utiliza técnicas tradicionais e inovadoras para ressaltar as nuances e aromas únicos de cada lote. Trabalhamos com os melhores produtores, escolhendo os grãos mais selecionados e cuidadosamente processados.
+            <br><br>
+            Nosso compromisso é fornecer um atendimento excepcional, garantindo que sua experiência de compra seja fácil, segura e prazerosa. Nossa equipe está pronta para responder suas perguntas, oferecer recomendações personalizadas e auxiliá-lo em todas as etapas do processo de compra.</p>
+        </div>
+        <img class="image3" src="assets/img/cafezin.png">
+    </div>
+    <div class="containerMid" id="ÁreaProfissional">
+        <img class="image2" src="assets/img/graozin.png">
+        <div class="containerMidContent">
+            <img src="assets/img/insta.png" class="imageinsta">
+            <p class="texto1">Instagram<br> </p><br>
+            <img src="assets/img/zap.png" class="imageZap">
+            <br><p  class="texto1">Clique aqui para iniciar seu atendimento no Whatsapp</p>
+            <img src="assets/img/telefonin.png" class="imagetelefonin">
+            <p  class="texto1"></p>Contato: 3421-8671</p>
+        </div>
+    </div>
+</body>
+</html>
